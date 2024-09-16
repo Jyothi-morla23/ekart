@@ -13,3 +13,8 @@
 body {
   font-family: "Montserrat", sans-serif;
 }
+a {
+  text-decoration: none;
+  margin: 0 10px;
+  color: #262626;
+}
